@@ -1,0 +1,11 @@
+{
+	"InstallScripts" : 
+	[
+		"/Users/hassankhalif/coding-file/PersonalProjects/LearningC/Cgames/PingPong/build/cmake_install.cmake",
+		"/Users/hassankhalif/coding-file/PersonalProjects/LearningC/Cgames/PingPong/build/_deps/raylib-build/cmake_install.cmake",
+		"/Users/hassankhalif/coding-file/PersonalProjects/LearningC/Cgames/PingPong/build/_deps/raylib-build/raylib/cmake_install.cmake",
+		"/Users/hassankhalif/coding-file/PersonalProjects/LearningC/Cgames/PingPong/build/_deps/raylib-build/raylib/external/glfw/cmake_install.cmake",
+		"/Users/hassankhalif/coding-file/PersonalProjects/LearningC/Cgames/PingPong/build/_deps/raylib-build/raylib/external/glfw/src/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
